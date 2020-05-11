@@ -1,6 +1,12 @@
 # spider
 本代码主要用于抓取京东评论数据，并找出含有指定关键字的内容
 
+### 项目地址
+golang
+```
+https://github.com/tea-yy/spider.git
+```
+
 ### 依赖环境
 golang
 
